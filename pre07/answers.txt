@@ -1,0 +1,10 @@
+2. 
+
+Method 1: 
+The banana method takes in an integer array (with the parameter name of a). This is writing a factorial method. It has a variable (kiwi) starting at 1 and has a counter (i). They are iterating over the array and multiplying kiwi (1) by each element of the array until they have reached the end. Then they are returning the result (kiwi).
+
+Method 2: 
+The grapefruit method takes in two parameters: an integer array titled a and a single integer titled grape. This method is looking to see if the parameter grape is in the array. They are iterating over the array and checking to see if each element is equal to the integer grape, if it is then they return the index value of that element and if none of them are then they return -1.
+
+Method 3: 
+The pineapple method takes in two parameters: an integer array titled a and a single integer titled apple. They are creating another variable called pear and initializing it at 0. Then for each element of the array a, if the element is equal to the integer apple then they are adding 1 to the pear (counter). At the end of the method they are returning the counter, pear. This is in essence counting to see how many times a specific integer (apple) appears in an array.
