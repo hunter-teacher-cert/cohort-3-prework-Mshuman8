@@ -1,0 +1,25 @@
+1. Writing the sample code using a single if statement.
+
+    if (x > 0 && x < 10) {
+        System.out.println("Positive single digit number.")
+    }
+
+2. 
+pt 1: Stack Diagram
+zoop("breakfast",4)
+"breakfast"
+"!" (b/c of else)
+
+pt 2: Complete output: 
+"just for
+any not more
+It's breakfast
+!"
+
+3. Draw a stack diagram that shows the state of the program in Section 5.8 after main invokes nLines with the parameter n == 4, just before the last invocation of nLines returns.
+
+nLines(4)
+"
+
+
+"
