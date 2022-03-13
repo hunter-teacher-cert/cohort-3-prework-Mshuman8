@@ -1,0 +1,23 @@
+******    4.1:    ******
+
+Math is a class similar to in JavaScript. 
+You can create such as: 
+
+double root = Math.sqrt(17.0);
+double angle = 1.5;
+double height = Math.sin(angle);
+
+General math calls:
+Math.E (Euler's #)
+Math.toRadians(degreeAmt)
+Math.toDegrees(radianAmt)
+Math.round(aNumber)
+Math.PI == pi
+
+A long is an integer but bigger. 
+
+
+
+
+******    4.3:    ******
+

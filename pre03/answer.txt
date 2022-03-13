@@ -1,0 +1,17 @@
+1. The output after this program is run would be: 
+
+No I wug.
+You wugga wug.
+I wug.
+
+
+2. 
+Main
+    Zoop
+        Baffle
+            Ping
+        Baffle
+            Ping
+    Baffle
+
+3. If you tried to invoke baffle(); at the end of the ping method this would not work. It will not work because the baffle() method itself is invoking the ping() method. Therefore you would call ping, call baffle which in term would call ping and this would create an endless loop of sorts.
